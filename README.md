@@ -1,1 +1,3 @@
 # siteDockerise
+
+dotnet new sln
