@@ -15,7 +15,7 @@ dotnet new web -o siteDockerise.web
 Ajout dans la solution :
 
 ```jsx
-dotnet sln add .\[siteDockerise.web](http://sitedockerise.web/)\siteDockerise.web.csproj
+dotnet sln add siteDockerise.web
 ```
 
 Publier l’api :
